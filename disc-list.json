@@ -4,7 +4,7 @@
         "minecraftId": "item.mcdisc.1",
         "url": "https://www.youtube.com/watch?v=mH_Zl2Rgl5M",
         "name": "Don't Ever Forget",
-        "artist": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "artist": "Pokemon Mystery Dungeon: Explorers of Sky",
         "released": true,
         "soundId": "sound.mcdisc.1",
         "texture": "mcdisc:donteverforget"
@@ -14,7 +14,7 @@
         "minecraftId": "item.mcdisc.2",
         "url": "https://www.youtube.com/watch?v=krGXMh6qaxA",
         "name": "Route 209",
-        "artist": "Pokémon Diamond/Pearl",
+        "artist": "Pokemon Diamond/Pearl",
         "released": true,
         "soundId": "sound.mcdisc.2",
         "texture": "mcdisc:route209"
@@ -104,7 +104,7 @@
         "minecraftId": "item.mcdisc.11",
         "url": "https://www.youtube.com/watch?v=zCvccmNwFV8",
         "name": "Deoxys' Theme",
-        "artist": "Pokémon FireRed/LeafGreen/Emerald",
+        "artist": "Pokemon FireRed/LeafGreen/Emerald",
         "released": true,
         "soundId": "sound.mcdisc.11",
         "texture": "mcdisc:deoxystheme"
@@ -114,7 +114,7 @@
         "minecraftId": "item.mcdisc.12",
         "url": "https://www.youtube.com/watch?v=4MNAktk9ei8",
         "name": "Ecruteak City",
-        "artist": "Pokémon Silver/Gold/Crystal",
+        "artist": "Pokemon Silver/Gold/Crystal",
         "released": true,
         "soundId": "sound.mcdisc.12",
         "texture": "mcdisc:ecruteakcity"
