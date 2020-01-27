@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=mH_Zl2Rgl5M",
+        "name": "Don't Ever Forget",
+        "artist": "Pokémon Mystery Dungeon: Explorers of Sky",
+        "released": true,
+        "soundId": "sound.mcdisc.1",
+        "texture": "mcdisc:donteverforget"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=krGXMh6qaxA",
+        "name": "Route 209",
+        "artist": "Pokémon Diamond/Pearl",
+        "released": true,
+        "soundId": "sound.mcdisc.2",
+        "texture": "mcdisc:route209"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=bW3kXbzYcOo",
+        "name": "Ken's Theme",
+        "artist": "Street Fighter II",
+        "released": true,
+        "soundId": "sound.mcdisc.3",
+        "texture": "mcdisc:kenstheme"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=0hEYvdMoF2g",
+        "name": "Gerudo Valley",
+        "artist": "The Legend of Zelda: Ocarina of Time",
+        "released": true,
+        "soundId": "sound.mcdisc.4",
+        "texture": "mcdisc:gerudovalley"
+    },
+	{
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://www.youtube.com/watch?v=wDgQdr8ZkTw&t=19s",
+        "name": "Megalovania",
+        "artist": "Undertale",
+        "released": true,
+        "soundId": "sound.mcdisc.5",
+        "texture": "mcdisc:megalovania"
+    },
+	{
+        "id": 6,
+        "minecraftId": "item.mcdisc.6",
+        "url": "https://www.youtube.com/watch?v=Tp3qiOKuEBM",
+        "name": "Positive Force",
+        "artist": "VVVVVV",
+        "released": true,
+        "soundId": "sound.mcdisc.6",
+        "texture": "mcdisc:positiveforce"
+    },
+	{
+        "id": 7,
+        "minecraftId": "item.mcdisc.7",
+        "url": "https://www.youtube.com/watch?v=y9hh91-2iaA",
+        "name": "Overture",
+        "artist": "God of War",
+        "released": true,
+        "soundId": "sound.mcdisc.7",
+        "texture": "mcdisc:overture"
+    },
+	{
+        "id": 8,
+        "minecraftId": "item.mcdisc.8",
+        "url": "https://www.youtube.com/watch?v=s9XljBWGrRQ",
+        "name": "The Other Promise",
+        "artist": "Kingdom Hearts 2",
+        "released": true,
+        "soundId": "sound.mcdisc.8",
+        "texture": "mcdisc:theotherpromise"
+    },
+	{
+        "id": 9,
+        "minecraftId": "item.mcdisc.9",
+        "url": "https://www.youtube.com/watch?v=6ctYQ2giDfw",
+        "name": "2AM",
+        "artist": "Animal Crossing: New Leaf",
+        "released": true,
+        "soundId": "sound.mcdisc.9",
+        "texture": "mcdisc:2AM"
+    },
+	{
+        "id": 10,
+        "minecraftId": "item.mcdisc.10",
+        "url": "https://www.youtube.com/watch?v=A4UDSVTNL3M",
+        "name": "One Winged Angel",
+        "artist": "Final Fantasy VII",
+        "released": true,
+        "soundId": "sound.mcdisc.10",
+        "texture": "mcdisc:onewingedangel"
+    },
+	{
+        "id": 11,
+        "minecraftId": "item.mcdisc.11",
+        "url": "https://www.youtube.com/watch?v=zCvccmNwFV8",
+        "name": "Deoxys' Theme",
+        "artist": "Pokémon FireRed/LeafGreen/Emerald",
+        "released": true,
+        "soundId": "sound.mcdisc.11",
+        "texture": "mcdisc:deoxystheme"
+    },
+	{
+        "id": 12,
+        "minecraftId": "item.mcdisc.12",
+        "url": "https://www.youtube.com/watch?v=4MNAktk9ei8",
+        "name": "Ecruteak City",
+        "artist": "Pokémon Silver/Gold/Crystal",
+        "released": true,
+        "soundId": "sound.mcdisc.12",
+        "texture": "mcdisc:ecruteakcity"
+    },
+	{
+        "id": 13,
+        "minecraftId": "item.mcdisc.13",
+        "url": "https://www.youtube.com/watch?v=GBPbJyxqHV0",
+        "name": "Dire, Dire Docks",
+        "artist": "Super Mario 64",
+        "released": true,
+        "soundId": "sound.mcdisc.13",
+        "texture": "mcdisc:dirediredocks"
+    },
+	{
+        "id": 14,
+        "minecraftId": "item.mcdisc.14",
+        "url": "https://www.youtube.com/watch?v=-ptrVQJT5Wc&t=3s",
+        "name": "Battle Against a Weird Opponent",
+        "artist": "Earthbound",
+        "released": true,
+        "soundId": "sound.mcdisc.14",
+        "texture": "mcdisc:battleagainstaweirdopponent"
+    },
+	{
+        "id": 15,
+        "minecraftId": "item.mcdisc.15",
+        "url": "https://www.youtube.com/watch?v=IJmIGC0nwK0",
+        "name": "???",
+        "artist": "???",
+        "released": true,
+        "soundId": "sound.mcdisc.15",
+        "texture": "mcdisc:???"
+    }
+]
